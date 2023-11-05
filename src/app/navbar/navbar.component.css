@@ -1,0 +1,9 @@
+.navbar-brand {
+    text-align: center;
+    width: 100%;
+    color:white;
+}
+.navbar-brand {float:none;}
+.navbar{
+    background-color: #DE3163;
+}
